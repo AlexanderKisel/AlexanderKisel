@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 **AlexanderKisel/AlexanderKis# 💫 About Me:
 I'm a programmer and I want to participate in an interesting project.
 
@@ -23,8 +22,6 @@ I'm a programmer and I want to participate in an interesting project.
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AlexanderKisel&icon=1&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->el** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
