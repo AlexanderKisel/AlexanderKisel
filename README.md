@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-**AlexanderKisel/AlexanderKis# 💫 About Me:
+💫 About Me:
 I'm a programmer and I want to participate in an interesting project.
 
 
